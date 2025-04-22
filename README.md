@@ -28,6 +28,16 @@ Product Analysis: Top-performing product categories and sub-categories.
 Shipping & Returns: Distribution of orders by ship mode and return patterns.
 
 Payment Modes: Insights into preferred payment methods used by customers.
+📊 KPI Dashboard Summary
+
+KPI	Value
+💵 Total Sales	$1,565,804.32
+📈 Total Profit	$175,262.11
+📦 Total Orders	3,003
+🧾 Average Order Value	$521.41
+📊 Profit Margin	11.19%
+📦 Total Quantity Sold	22,317
+🔁 Return Rate	9.56%
 
 🗂️ Dataset Details
 Source: Simulated retail dataset with 5,900+ records.
@@ -43,8 +53,4 @@ Microsoft Excel / CSV (Data Source)
 
 DAX for calculated measures
 
-📁 Files Included
-superstore_Dashboard.pbix – Interactive dashboard file
-
-SuperStore_Sales_Dataset.csv – Raw data used for the dashboard
 
